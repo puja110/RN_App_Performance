@@ -1,0 +1,46 @@
+# React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Metro bundler
+.expo/
+.expo-shared/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/
+DerivedData/
+*.hmap
+*.ipa
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+*.apk
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.swp
+*.lock

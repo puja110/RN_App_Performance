@@ -1,0 +1,42 @@
+{
+  "buildFiles": [
+    "/Users/pujashrestha/2026_RN/RN_App_Performance/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/pujashrestha/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/.cxx/Debug/1w23635s/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/pujashrestha/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/.cxx/Debug/1w23635s/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "appmodules",
+      "output": "/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/build/intermediates/cxx/Debug/1w23635s/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/pujashrestha/.gradle/caches/8.13/transforms/ecc360991f6e72abc8ac0f2009a2f64d/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/pujashrestha/.gradle/caches/8.13/transforms/33b1ee09c5d103c8511704d0785c9f6c/transformed/react-android-0.79.6-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/pujashrestha/.gradle/caches/8.13/transforms/33b1ee09c5d103c8511704d0785c9f6c/transformed/react-android-0.79.6-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/pujashrestha/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/pujashrestha/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

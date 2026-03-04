@@ -1,0 +1,16 @@
+# ninja log v5
+0	14	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+0	1904	1772067447295044849	CMakeFiles/appmodules.dir/Users/pujashrestha/2026_RN/AppOptimization/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d7a0638f4f9c34cd
+0	2126	1772067447516519127	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2b446ee26a16e0f4
+2126	2213	1772067447610830271	/Users/pujashrestha/2026_RN/AppOptimization/android/app/build/intermediates/cxx/Debug/58s4l5r5/obj/arm64-v8a/libappmodules.so	a382466a720d1f2f
+0	36	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+1	33	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+0	39	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+1	42	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+13	56	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+9	52	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+8	41	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+0	30	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+0	12	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+9	54	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c
+0	8	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/arm64-v8a/CMakeFiles/cmake.verify_globs	d2d7af948d810e2c

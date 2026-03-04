@@ -1,0 +1,5 @@
+# ninja log v5
+0	10	0	/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/.cxx/Debug/1w23635s/arm64-v8a/CMakeFiles/cmake.verify_globs	8ee9f02d5baf2bef
+0	1490	1772650721577459007	CMakeFiles/appmodules.dir/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	af9fc624776a72cd
+0	1672	1772650721760111622	CMakeFiles/appmodules.dir/OnLoad.cpp.o	da06f5ce3fee44c0
+1673	1742	1772650721836448622	/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/build/intermediates/cxx/Debug/1w23635s/obj/arm64-v8a/libappmodules.so	76060fe90bbfcfdd

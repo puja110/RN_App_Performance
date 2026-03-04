@@ -1,0 +1,16 @@
+# ninja log v5
+0	13	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	1594	1772067457674518749	CMakeFiles/appmodules.dir/Users/pujashrestha/2026_RN/AppOptimization/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	b181e975259ada54
+0	1764	1772067457839543208	CMakeFiles/appmodules.dir/OnLoad.cpp.o	b0161fa2440bfdc
+1764	1863	1772067457947211515	/Users/pujashrestha/2026_RN/AppOptimization/android/app/build/intermediates/cxx/Debug/58s4l5r5/obj/x86_64/libappmodules.so	2560e4b4118722e2
+0	13	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	11	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	21	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	13	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+1	10	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	13	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	15	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	12	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	12	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	9	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5
+0	8	0	/Users/pujashrestha/2026_RN/AppOptimization/android/app/.cxx/Debug/58s4l5r5/x86_64/CMakeFiles/cmake.verify_globs	f0f2b9a9d6b45ff5

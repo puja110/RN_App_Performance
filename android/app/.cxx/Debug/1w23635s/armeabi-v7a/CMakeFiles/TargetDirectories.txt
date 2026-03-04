@@ -1,0 +1,3 @@
+/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/.cxx/Debug/1w23635s/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/.cxx/Debug/1w23635s/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/pujashrestha/2026_RN/RN_App_Performance/android/app/.cxx/Debug/1w23635s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
